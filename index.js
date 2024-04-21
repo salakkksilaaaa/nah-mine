@@ -36,8 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
-
+const statusMessages = ["Miku peluşlarıyla oynuyor!","Playing with miku plushie!","Miku loves you!];
 
 let currentIndex = 0;
 const channelId = '';
